@@ -25,6 +25,11 @@
 - [Repository](https://github.com/ianarawjo/ChainForge) - :octocat: The GitHub repository that started it all!
 - [Arxiv Paper](https://arxiv.org/abs/2309.09128) - 🧑‍🎓 HCI (Human Computer Interface) research paper presenting **in-lab and interview studies** on people testing this tool.
 
+## Community
+
+- [Twitter Account](https://x.com/chainforge_ai) - 🐦 Official Twitter account.
+- Discord Server Incoming - 💬 A Discord server is in the works, stay tuned!
+
 ## YouTube videos
 
 *YouTube videos talking about Chainforge (newest first)*
@@ -45,9 +50,10 @@
 
 *Blog posts talking about Chainforge (newest first)*
 
+- [Simon Willison blog post](https://simonwillison.net/2024/Nov/8/chainforge/) - (**November 2024**) `A good option for running evaluations against prompts`.
+
 - [Hacker News Trending Post](https://news.ycombinator.com/item?id=36056907) - (**May 2023**) Stayed on Hacker News Front for 2 days after [its publication](https://hnrankings.info/37038053/).
 
-- [Simon Willison blog post](https://simonwillison.net/2024/Nov/8/chainforge/) - (**November 2024**) `A good option for running evaluations against prompts`.
 
 - [Introducing ChainForge: A visual programming environment for prompt engineering](https://ianarawjo.medium.com/introducing-chainforge-a-visual-programming-environment-for-prompt-engineering-bc6910be01cf) - (**May 2023, by [its creator](https://ianarawjo.com/)**) Medium Post presenting Chainforge.
 
