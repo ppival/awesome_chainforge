@@ -28,7 +28,7 @@
 ## Community
 
 - [Twitter Account](https://x.com/chainforge_ai) - 🐦 Official Twitter account.
-- Discord Server Incoming - 💬 A Discord server is in the works, stay tuned!
+- The official Community Discord server [![Discord](https://img.shields.io/discord/1405689845245804628?label=discord&logo=discord&color=7289da)](https://discord.gg/DNpuumFx)
 
 ## YouTube videos
 
